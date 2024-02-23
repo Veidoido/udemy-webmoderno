@@ -5,7 +5,7 @@ Este é um projeto de uma calculadora simples desenvolvida durante o curso Web M
 Clone este repositório em sua máquina local:
 ### `git clone github.com/Veidoido/udemy-webmoderno/tree/main/react/calculadora`
 Navegue até o diretório do projeto:
-### `cd calculadora-react`
+### `cd calculadora`
 Instale as dependências necessárias:
 ### `npm install`
 Inicie a aplicação:
