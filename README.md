@@ -42,7 +42,8 @@ O aplicativo será aberto em seu navegador padrão e estará pronto para uso.
 - Update (Atualizar): Editar informações dos itens existentes na lista.
 - Delete (Excluir): Remover itens da lista.
 ##Estrutura do Projeto:
-O projeto segue a estrutura padrão de uma aplicação React, com os principais arquivos e diretórios listados abaixo:
+
+## O projeto segue a estrutura padrão de uma aplicação React, com os principais arquivos e diretórios listados abaixo:
 
 - public: Contém o arquivo HTML principal e outros recursos estáticos.
 - src: Contém os arquivos JavaScript e CSS da aplicação.
